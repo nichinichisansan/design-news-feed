@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>デザイン・広告 モーニングブリーフ</title>
+    <link>https://nichinichisansan.github.io/design-news-feed/</link>
+    <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
+    <language>ja</language>
+    <lastBuildDate>Mon, 20 Jul 2026 17:37:30 +0900</lastBuildDate>
+    <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
+    <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://nichinichisansan.github.io/design-news-feed/artwork.png"/>
+    <itunes:category text="Arts">
+      <itunes:category text="Design"/>
+    </itunes:category>
+    <item>
+      <title>7月20日（月）</title>
+      <description>おはよう。2026年7月20日、月曜日。今日も始めていく。 先週後半の記事を百本ちょっとさらってきたんだけど、今日は屋外広告が三本、妙に噛み合ってて。それとChatGPTの中に企業のアプリが並び始めた話。あとカンヌで出たっていう「広告の仕事をやめろ」っていう、なかなか強い言葉。この三本でいく。 月曜だから、最後に今週末に行ける展示もひとつ置いとくね。麻布台で先週始まったやつがかなり面白そうで、そこは後半でじっくり話す。 十五分、事実だけ並べる回にはしない。私がどう見てるかまで踏み込むから、違うなと思ったら心の中で反論しながら聞いてもらえたら。じゃあ一本目から。 一本目。屋外広告、OOHの話。</description>
+      <pubDate>Mon, 20 Jul 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-07-20.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-07-20.m4a" length="5389441" type="audio/x-m4a"/>
+      <itunes:duration>00:10:55</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
