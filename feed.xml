@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 07:58:15 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 00:12:06 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>7月22日（水）</title>
+      <description>おはよう。2026年7月22日、水曜日の放送を始めます。今日も水曜だから、いつも通り15分。今日の3大トピックをじっくり深掘りして、海外のクリップを何本か短く拾って、最後に過去のニュースと今日の話をつないでいく、っていう流れでいきます。 今日ね、記事を全部並べて眺めてて、私の中でひとつテーマが立ち上がってきたの。それは「デザインとか広告の仕事が、いま一体どこに置かれてるのか」っていう話。作る場所、届ける場所、任される範囲。そこが今けっこう揺れてると思ってて。老舗メーカーがお化け屋敷を作る話も、空港の名前が炎上した話も、私の中では全部そこにつながってる。</description>
+      <pubDate>Wed, 22 Jul 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-07-22.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-07-22.m4a" length="9036731" type="audio/x-m4a"/>
+      <itunes:duration>00:18:17</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>7月21日（火）</title>
       <description>7月21日、火曜日。おはよう。今日も業界の動きを、私の仕事の判断材料として拾っていくよ。今日ね、記事を並べてて気づいたことがあって。一見バラバラな話が、実は全部おなじ一本の線でつながってた。その線は、デザインが簡単に、しかもきれいに作れるようになった時代に、ブランドはどうやって「欲しがられる」のか、っていう問い。今日の三大トピックはね、安全すぎる仕事の話、パンのありがちな表現を全部避けたリブランドの話、そしてラグジュアリーの本当の危機の話。狙いは全然違うのに、根っこが同じなの。この三つを続けて聞くと、たぶん今の業界の一番大きい地殻変動が見えてくる。じゃあ、いってみよう。 まず一本目。</description>
