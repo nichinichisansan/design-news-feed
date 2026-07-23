@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Jul 2026 05:46:46 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 08:37:48 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>7月24日（金）</title>
+      <description>おはよう。7月24日、金曜日の放送、始めるね。今週ももう終わりに近づいてきた。今日は手ざわりの違うネタが三つ揃ってて、並べてみると全部どこかでつながってるのが面白い。一つ目は、コカ・コーラが世界共通のビジュアルアイデンティティを刷新した話。歴史あるブランドの大型リニューアルなんだけど、海外では早くも「やりすぎじゃない?」って声が出てる。二つ目は、ロッテが始めた「クールシェルタープロジェクト」。猛暑を逃げ場に変えて集客につなげる、街の使い方そのものを組み替える施策。三つ目は、いよいよ国内で動き出したChatGPT広告の、運用のリアルな話。</description>
+      <pubDate>Fri, 24 Jul 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-07-24.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-07-24.m4a" length="9267091" type="audio/x-m4a"/>
+      <itunes:duration>00:18:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>7月23日（木）</title>
       <description>おはよう。7月23日、木曜日。デザインと広告のニュースを、私の視点で15分。今日も、ニュースそのものより「なんで今それが起きてるのか」を一緒に考える時間にしていこう。 今日の中身をさきに言っておくね。まず一本目は広告の話。インターハイの開幕に合わせて出てきたポカリスエットのポスターが、なんと47都道府県ぶんあるっていう。しかも中身が高校生の声そのものでできてる。二本目は、いよいよ本当に始まったChatGPT広告。これね、私たちの仕事の前提を静かに書き換えにきてると思ってて、ちょっと腰を据えて話したい。三本目は、ウォルマートに入った途端にブランドを丸ごと作り直した、アメリカのデオドラント。</description>
