@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Jul 2026 11:09:49 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 07:59:19 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>7月28日（火）</title>
+      <description>おはよう。2026年7月28日、火曜日。デザインと広告のニュースを、私の見立てつきで15分。 今日入ってきた記事は全部で43本あったんだけど、正直そのうちの半分くらいは新商品とコラボの発表で埋まってた。夏だなって思う。ただ、その山を掻き分けた奥に、今日はいいのが3本あって。ひとつめが、パルコが30年前のフリーペーパーを復刊させた話。しかも作ってる側が「宣伝の役に立たない」って自分で言ってる。ふたつめが、LUUPとガリガリ君が組んで、都内150台の電動キックボードをラッピングした夏のキャンペーン。三つめが、繊維商社のヤギが、オフィスとCIと理念を同時に変えた「第二創業」の話。</description>
+      <pubDate>Tue, 28 Jul 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-07-28.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-07-28.m4a" length="9997259" type="audio/x-m4a"/>
+      <itunes:duration>00:20:12</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>7月27日（月）</title>
       <description>おはよう。7月27日、月曜日の朝。design news、始めるね。今日は月曜だから、最後に、週末というか、これから予定に入れておきたい展示をひとつ紹介する。今朝拾ったニュースは全部で十一本。正直に言うと、その半分はコスメの秋新色とか銀座のパフェフェアとか、この番組では読まないやつだった。だから数えるだけにして、後でトレンドの話のときにまとめて触れる。今日ちゃんと掘りたいのは三つ。群馬・前橋の国際芸術祭、イギリス発の新しい高級時計ブランド、それとポーターが表参道でやる、ちょっと変わったイベント。</description>
