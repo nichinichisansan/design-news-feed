@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Jul 2026 07:59:19 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 05:36:29 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>7月29日（水）</title>
+      <description>7月29日、水曜日。デザインと広告の一日を、私の視点で拾っていきます。 本題の前に一つだけ。昨日の夕方、熊本県熊本地方でマグニチュード7.1の地震があって、宇城市と氷川町で最大震度7を観測したって。被害の全体像はまだ見えていない。現地の方の無事を、まず願ってる。この件、企業のコミュニケーションとしても動きがあったので、後半でもう一度触れます。 今日の三本は、UNHCRの「途中で止まる料理動画」、TikTok Shop日本上陸一年の数字、それから上島珈琲のイギリス向けリブランド。全然違う話に見えるけど、私の中では全部「どうやって信じてもらうか」の話として並んでる。</description>
+      <pubDate>Wed, 29 Jul 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-07-29.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-07-29.m4a" length="10942484" type="audio/x-m4a"/>
+      <itunes:duration>00:22:07</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>7月28日（火）</title>
       <description>おはよう。2026年7月28日、火曜日。デザインと広告のニュースを、私の見立てつきで15分。 今日入ってきた記事は全部で43本あったんだけど、正直そのうちの半分くらいは新商品とコラボの発表で埋まってた。夏だなって思う。ただ、その山を掻き分けた奥に、今日はいいのが3本あって。ひとつめが、パルコが30年前のフリーペーパーを復刊させた話。しかも作ってる側が「宣伝の役に立たない」って自分で言ってる。ふたつめが、LUUPとガリガリ君が組んで、都内150台の電動キックボードをラッピングした夏のキャンペーン。三つめが、繊維商社のヤギが、オフィスとCIと理念を同時に変えた「第二創業」の話。</description>
