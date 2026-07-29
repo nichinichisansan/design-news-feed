@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2026 05:36:29 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 08:51:40 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>7月30日（木）</title>
+      <description>おはよう。7月30日、木曜日。デザインと広告のニュースを、私の視点で拾っていく15分です。今日は正直、少し重い日でもあって。28日の夕方に熊本で大きな地震があって、業界のニュースもそこに引っ張られてる。だから1本目は、災害と企業のコミュニケーションの話から始める。2本目は総務省が今月続けて出した2つの調査。AIとの付き合い方について、けっこう怖い数字が並んでた。3本目はスマートエイチアールのアクセシビリティの話で、これは今日いちばんの収穫だと思ってる。海外クリップはギネスと、イギリスのガールガイディングと、メタの決算。最後にいつもの、過去との接続。</description>
+      <pubDate>Thu, 30 Jul 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-07-30.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-07-30.m4a" length="11963098" type="audio/x-m4a"/>
+      <itunes:duration>00:24:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>7月29日（水）</title>
       <description>7月29日、水曜日。デザインと広告の一日を、私の視点で拾っていきます。 本題の前に一つだけ。昨日の夕方、熊本県熊本地方でマグニチュード7.1の地震があって、宇城市と氷川町で最大震度7を観測したって。被害の全体像はまだ見えていない。現地の方の無事を、まず願ってる。この件、企業のコミュニケーションとしても動きがあったので、後半でもう一度触れます。 今日の三本は、UNHCRの「途中で止まる料理動画」、TikTok Shop日本上陸一年の数字、それから上島珈琲のイギリス向けリブランド。全然違う話に見えるけど、私の中では全部「どうやって信じてもらうか」の話として並んでる。</description>
