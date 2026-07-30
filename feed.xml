@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Jul 2026 08:51:40 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 05:32:47 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>7月31日（金）</title>
+      <description>おはよう。2026年7月31日、金曜日。7月最後の一日ね。今日も15分でいきます。 今日拾うのは3本。1本目は、カンヌライオンズ2026で語られた「退屈」の話。生成AIで誰でもきれいなものが作れるようになった、その先で何が起きてるかっていう論点。2本目は、ファンケルが新宿で流してるOOH。壁のキスマークを清掃員が拭き取っていく映像で、通行人が広告だと気づかないまま見入っちゃうっていう仕掛け。3本目は、ダイドードリンコが創業以来はじめてやる、商品ブランドの全面刷新。自販機の前に立った数秒で何を思い出させるか、っていう設計の話。 そのあと海外を3本、短く。</description>
+      <pubDate>Fri, 31 Jul 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-07-31.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-07-31.m4a" length="8518317" type="audio/x-m4a"/>
+      <itunes:duration>00:17:12</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>7月30日（木）</title>
       <description>おはよう。7月30日、木曜日。デザインと広告のニュースを、私の視点で拾っていく15分です。今日は正直、少し重い日でもあって。28日の夕方に熊本で大きな地震があって、業界のニュースもそこに引っ張られてる。だから1本目は、災害と企業のコミュニケーションの話から始める。2本目は総務省が今月続けて出した2つの調査。AIとの付き合い方について、けっこう怖い数字が並んでた。3本目はスマートエイチアールのアクセシビリティの話で、これは今日いちばんの収穫だと思ってる。海外クリップはギネスと、イギリスのガールガイディングと、メタの決算。最後にいつもの、過去との接続。</description>
