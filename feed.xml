@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 15:33:59 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 15:36:08 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -22,8 +22,8 @@
       <description>おはよう。八月一日、土曜日の放送。今週を一言でまとめるなら、ずっと手元にあって当たり前だったものが、急に展示ケースの中に入れられた週だった。今週は展覧会と展示の話が異様に多かったんだけど、そのどれもが、新しい表現を見せますっていう顔をしてない。五十年前のキャラクター、名前も残ってない民具、十七世紀の絵。すでにあるものを、今どう並べ直すかっていう企画ばっかりだったの。 一方で広告の側は、カンヌにバーを出したり、ドラッグストアの展示会をテーマパークにしたり、とにかく人が入って行ける場所を作りにいってる。過去を並べ直す動きと、場所を作る動き。</description>
       <pubDate>Sat, 01 Aug 2026 06:00:00 +0900</pubDate>
       <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-08-01.m4a</guid>
-      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-08-01.m4a" length="19568144" type="audio/x-m4a"/>
-      <itunes:duration>00:39:34</itunes:duration>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-08-01.m4a" length="19023687" type="audio/x-m4a"/>
+      <itunes:duration>00:38:28</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
