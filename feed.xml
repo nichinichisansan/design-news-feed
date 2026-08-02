@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 02 Aug 2026 11:03:27 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 07:15:37 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>8月3日（月）</title>
+      <description>おはよう。8月3日、月曜日の放送です。今日は正直に言うと、手元に届いたニュースの半分以上が新作コスメと新作シューズだった。秋の新色が一気に発表される時期なんだよね。そういう単発の新商品は本編では読み上げないことにしてるんだけど、数だけはちゃんと数えてる。数えてるのは、一本ずつだと意味がなくても、量が偏ったときにはそれ自体が業界の動きを表すからで、今週は特に集中してたから、その傾向は後半で話す。その代わり今日は、電通報から来た論考を二本と、大阪に初めての常設店を出すブランドの話、この三本を深く掘っていく。派手なニュースはひとつもない。新製品の発表でも、大型キャンペーンのローンチでもない。</description>
+      <pubDate>Mon, 03 Aug 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-08-03.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-08-03.m4a" length="10179486" type="audio/x-m4a"/>
+      <itunes:duration>00:20:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>8月2日（日）拡大版</title>
       <description>おはよう。八月二日、日曜日。八月最初の放送。日曜は作り手の話をする日だから、今日もそこから始めるね。正直に言うと、今日手元にある材料はそんなに多くない。週末って記事の本数自体が減るし、今日は特に、来週発売の新作まとめとか、店舗のリニューアルみたいな、この番組では読まないことにしてる種類のものが半分近くを占めてた。ああいうのを外してるのは、内容がつまらないからじゃなくて、発売日と価格が主役の記事って、読んだ翌週にはもう役に立たなくなるからなの。この番組は、半年後に聞き返しても意味が残る話だけを積んでいきたい。でもね、その半分を除いた中に、作り手のインタビューがちゃんと二本入ってた。</description>
