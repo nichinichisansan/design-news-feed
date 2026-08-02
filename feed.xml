@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 15:36:08 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 11:03:27 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>8月2日（日）拡大版</title>
+      <description>おはよう。八月二日、日曜日。八月最初の放送。日曜は作り手の話をする日だから、今日もそこから始めるね。正直に言うと、今日手元にある材料はそんなに多くない。週末って記事の本数自体が減るし、今日は特に、来週発売の新作まとめとか、店舗のリニューアルみたいな、この番組では読まないことにしてる種類のものが半分近くを占めてた。ああいうのを外してるのは、内容がつまらないからじゃなくて、発売日と価格が主役の記事って、読んだ翌週にはもう役に立たなくなるからなの。この番組は、半年後に聞き返しても意味が残る話だけを積んでいきたい。でもね、その半分を除いた中に、作り手のインタビューがちゃんと二本入ってた。</description>
+      <pubDate>Sun, 02 Aug 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-08-02.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-08-02.m4a" length="18870523" type="audio/x-m4a"/>
+      <itunes:duration>00:38:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>8月1日（土）拡大版</title>
       <description>おはよう。八月一日、土曜日の放送。今週を一言でまとめるなら、ずっと手元にあって当たり前だったものが、急に展示ケースの中に入れられた週だった。今週は展覧会と展示の話が異様に多かったんだけど、そのどれもが、新しい表現を見せますっていう顔をしてない。五十年前のキャラクター、名前も残ってない民具、十七世紀の絵。すでにあるものを、今どう並べ直すかっていう企画ばっかりだったの。 一方で広告の側は、カンヌにバーを出したり、ドラッグストアの展示会をテーマパークにしたり、とにかく人が入って行ける場所を作りにいってる。過去を並べ直す動きと、場所を作る動き。</description>
