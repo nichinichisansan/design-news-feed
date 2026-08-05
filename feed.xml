@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Aug 2026 09:02:08 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 05:23:51 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>8月6日（木）</title>
+      <description>おはようございます。8月6日、木曜日の放送です。 今日は3本。まず、匂いを題材にした広告の話から始めます。花王が渋谷に焼肉屋を出すの。次に、ニューヨーク・ファッション・ウィークの権利が売られたっていう話。最後に、20年続いたブランドが自分をどう言い直すか、っていう話。この3本を深めにやって、そのあと海外から3本、短く拾います。 今日、記事を全部並べて最初に引っかかったのは、画面の外に出ていく施策がやけに目につくなってこと。匂い、ぬいぐるみ、街の大きい看板、人が実際に入れる店。どれもスクリーンの中じゃ完結しないもの。しかもこれ、規模も業種もバラバラなのに、同じ日の記事に固まって出てきてる。</description>
+      <pubDate>Thu, 06 Aug 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-08-06.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-08-06.m4a" length="9788654" type="audio/x-m4a"/>
+      <itunes:duration>00:19:47</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>8月5日（水）</title>
       <description>おはようございます。2026年8月5日、水曜日。デザインと広告の話を15分でお届けします。今日は、社名を変える会社がなぜ野球選手を連れてきたのかという話から始めます。B2Bのリブランドの話なんだけど、これ、私たちがロゴを作るときの前提そのものを揺らす話だと思ってる。そのあと、広告代理店とコンサルの境目で何が起きてるかという論考、それから、緑のプラスチックの兵隊人形を展覧会のシンボルに変えた仕事。後半は海外のクリップを三本、最後に、これまで拾ってきた話とどうつながるかを整理します。今日はブランドの記憶をどう引っ越しさせるか、というのが通しのテーマになりそう。</description>
