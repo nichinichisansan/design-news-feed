@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 10:12:05 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 05:36:35 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>8月10日（月）</title>
+      <description>おはよう。2026年8月10日、月曜日の放送です。今日も15分でいきます。 今日は8月9日付けの記事が中心。正直、朝から少し重たいところから入ります。長崎新聞が81年目の8月9日に出した新聞広告の話。これ、テーマの重さとは別に、広告の作り方としてかなり面白いことをやってるの。二本目が星野リゾートの帰省ブルー、三本目がヒカキンのみそきんに出てきた数字の話。この三本。 海外はロンドンのサラダチェーンのデジタル刷新を一本、少し長めに。そのあと過去との接続をやって、最後は月曜恒例、今週末に行きたい展示を一つ。天王洲のグループ展を紹介します。</description>
+      <pubDate>Mon, 10 Aug 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-08-10.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-08-10.m4a" length="11177557" type="audio/x-m4a"/>
+      <itunes:duration>00:22:35</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>8月9日（日）拡大版</title>
       <description>おはよう。2026年8月9日、日曜日。週末版、30分の放送です。 日曜はいつも通り、作り手の話をじっくりやって、そのあとに仮説の棚卸し。この二本立てでいく。 今日の作り手のパートは三人分ある。一人目は、スピルっていう新しいソーシャルプラットフォームを作ってるアルフォンゾ・テレルさん。元ツイッターで、ソーシャルとエディトリアルのグローバル責任者だった人。二人目はVMLのチーフデザインオフィサー、ロブ・スミギエルスキさん。25年以上、ブランドアイデンティティからデジタルまで横断してきた人。三人目は俳優の門脇麦さん。失踪をテーマにした映画について話してる。</description>
