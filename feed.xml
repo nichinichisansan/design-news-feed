@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 05:36:35 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 09:52:08 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>8月11日（火）</title>
+      <description>おはよう。8月11日、火曜日。デザインと広告のニュースを、事実と私の見立てをセットで届ける15分です。 今日はね、全然違う場所から出てきた話が、途中で同じ一点に集まる回になった。東京の西の端の市がやってる観光プロモーションと、原宿のセレクトショップの二つの発表と、アメリカのデザインメディアが出した創造性の経済についての論考。発信してる主体も、予算の桁も、届けたい相手も、まるで揃ってない。なのに並べた時にこれ、全部「人間の手と時間をどう価値にするか」の話なんだよね。 前半で日本の事例を二つ、後半で海外のクリップを三本。最後に、これまで積み上げてきた見立てをどう更新するかを話します。</description>
+      <pubDate>Tue, 11 Aug 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-08-11.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-08-11.m4a" length="11058983" type="audio/x-m4a"/>
+      <itunes:duration>00:22:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>8月10日（月）</title>
       <description>おはよう。2026年8月10日、月曜日の放送です。今日も15分でいきます。 今日は8月9日付けの記事が中心。正直、朝から少し重たいところから入ります。長崎新聞が81年目の8月9日に出した新聞広告の話。これ、テーマの重さとは別に、広告の作り方としてかなり面白いことをやってるの。二本目が星野リゾートの帰省ブルー、三本目がヒカキンのみそきんに出てきた数字の話。この三本。 海外はロンドンのサラダチェーンのデジタル刷新を一本、少し長めに。そのあと過去との接続をやって、最後は月曜恒例、今週末に行きたい展示を一つ。天王洲のグループ展を紹介します。</description>
