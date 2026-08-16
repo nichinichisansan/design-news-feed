@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 08:32:53 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 10:21:17 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>8月16日（日）拡大版</title>
+      <description>おはよう。2026年8月16日、日曜日の放送。お盆の真ん中の日曜で、街もまだ休みモードだと思う。今日はゆっくり聞いてもらえたら嬉しい。 日曜は作り手の話と、仮説の棚卸しをする回。今日の前半はたっぷり時間を使って、二人の作り手を扱う。一人はイギリスのデザイン・ウィークがやってる連載に出てきた、パブリック・アドレスというところのチーフ・クリエイティブ・オフィサー、クリス・ブレイデン。ネットフリックス、アシックス、ワールドカップ、オリンピック。並べてみるとちょっと異様なラインナップの仕事をしてきた人。もう一人はジャン・ジュリアン。</description>
+      <pubDate>Sun, 16 Aug 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-08-16.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-08-16.m4a" length="19567982" type="audio/x-m4a"/>
+      <itunes:duration>00:39:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>8月15日（土）拡大版</title>
       <description>8月15日、土曜日。週末版です。今週の総括と、特集を1本お届けします。 今週の記事を頭から最後まで並べてみて、真っ先に引っかかったのが、名前の話がやたら多いなってこと。インスタグラムが10年ぶりにブランドを刷新した。イギリスのワークスペース事業者が、ランドマーク・スペースっていう、これ以上ないくらい分かりやすい名前を捨てて、エレメンタ・ワークスペースになった。そして日本では、老舗企業の社名から漢字が次々に消えていってる。全部バラバラのニュースなんだけど、やってることは同じ。自分が何者かを説明していた言葉を、いったん手放してる。</description>
