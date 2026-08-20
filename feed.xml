@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 12:55:57 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:45:20 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>8月20日（木）</title>
+      <description>おはよう。8月20日、木曜日の朝の回です。今日は15分。日本のニュースが妙に噛み合ってて、選んだわけじゃないのに三本とも「ルールが変わると、作るものが変わる」っていう同じ形をしてた。ルールって言っても二種類あって、表示とか法律みたいな外側の決まりと、プラットフォームが自分の都合で決めてる計測の決まり。どっちも作り手の側からは動かせないし、動くときは相談なく動く。一本目は、無印良品の「着るスキンケア」が販売停止になった件。名前がラインを止めたっていう話。二本目はユーチューブが再生回数の数え方を変える話。八月二十四日から数字が増える。</description>
+      <pubDate>Thu, 20 Aug 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-08-20.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-08-20.m4a" length="10221581" type="audio/x-m4a"/>
+      <itunes:duration>00:20:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>8月19日（水）</title>
       <description>おはよう。8月19日、水曜日の放送です。今日も15分でいきます。今日入ってきた記事、ざっと55本。正直に言うと、コスメの新色とかコラボのスニーカーとか、単体だと語ることの少ない商品ニュースがかなりの割合を占めてて、パッと見は静かな日だった。でも拾い上げてみたら、筋の通った話が3本あった。ひとつめは、ここしばらく流れてた意味不明なあのCMの正体。ふたつめは、経営危機から10年経ったシャープが今どこに賭けてるかっていう話。三つめは、Z世代の買い物の入口が、ついに検索エンジンを追い越したっていう数字。この3本、バラバラのニュースに見えるんだけど、私は同じひとつのことを言ってると思ってる。</description>
