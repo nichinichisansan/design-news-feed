@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 08:46:20 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:08:34 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>8月24日（月）</title>
+      <description>おはよう。8月24日、月曜日。デザインと広告の一日を、私の目線でひとつずつ読んでいく15分です。 今日は正直に言うと、記事の本数が少ない。全部で9本、しかもそのうちの半分近くが新商品のお知らせ。ああいうのは一本ずつ読んでもあんまり面白くないから、この番組では読まずに数えるだけにしてる。だから今日は、残った数本を深く掘る回になると思う。 話すのは3本。電通が20年続けてる広告小学校が北海道でやった授業のこと。それから、法人営業でキーパーソンに会えないっていう話。最後に、ファストカンパニーデザインが中国の原子炉の数を数えてる記事。バラバラに見えるけど、私の中では全部つながってる。</description>
+      <pubDate>Mon, 24 Aug 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-08-24.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-08-24.m4a" length="9222604" type="audio/x-m4a"/>
+      <itunes:duration>00:18:40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>8月21日（金）</title>
       <description>おはよう。2026年8月21日、金曜日の放送です。 今日は最初に、広告を作る側にとってちょっと居心地の悪い話をする。Omnicomが、自分たちの未来の中核だってずっと言ってきたAIプラットフォーム、それを実際に作った数百人のエンジニアと製品チームを、まるごと外部のIT企業に移すっていうニュース。二本目は、アサヒスーパードライが40周年に向けてイチローをアンバサダーに立てた話。なんで今イチローなのか、ここは考える価値があると思ってる。三本目が、無印良品が「着るスキンケア」を全部止めた件。理由がたった1文字だったっていう。</description>
