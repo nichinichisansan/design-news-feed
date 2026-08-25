@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 05:30:18 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:29:17 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>8月26日（水）</title>
+      <description>8月26日、水曜日の放送です。おはようございます。今日の記事を一通り見て、最初に引っかかったのはキャベツでした。宇宙から撮った衛星のデータで畑のキャベツの出荷量を予測して、その予測に合わせて広告を出す。そういう実験が動き出したの。それとサイバーエージェントが、AI時代のデザイナー像を定義しましたっていう発表。あと、名古屋の味噌カツ屋さんが、味噌カツを食べる店じゃなくてマスコットに会いに行く店を作った話。並べると全然関係ないように見えるんだけど、私はこの3本、けっこう深いところでつながってると思ってる。後半は海外から、リブランドの話と、ブランド名を25週間だけ捨てる話。</description>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-08-26.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-08-26.m4a" length="9244027" type="audio/x-m4a"/>
+      <itunes:duration>00:18:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>8月25日（火）</title>
       <description>おはよう。8月25日、火曜日のデザインニュースです。今日も15分、業界の動きを私の目線で拾っていく。 今日集まった記事は56本。ざっと目を通してて思ったんだけど、今日は「体験」と「文脈」の話が妙に固まってた。物そのものを売る話じゃなくて、物のまわりにある物語とか、その場に行かないと味わえない時間とか、そっち側に予算と手間が集まってる感じがする。逆に言うと、性能とか価格とか、物の中身そのものを正面から語ってる記事が今日はほとんどなかった。56本という一日分の偏りでしかないんだけど、その偏り方は覚えておきたいと思った。 今日の三本は、ちいかわの映画が100億円いった話。</description>
