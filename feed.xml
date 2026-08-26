@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 06:29:17 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 05:44:49 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>8月27日（木）</title>
+      <description>おはよう。8月27日、木曜日。今日も15分、いきます。 今日の1本目は、キャラクターがカードから消える話。JR東日本が、Suicaのペンギンが描かれたICカードの発売をやめる。在庫がなくなり次第終了で、そのあとのカードは無地になるって。2本目が、ファミリーマートの10年ぶりの新しいユニホーム。Tシャツで、髪色も着こなしも自由にするらしい。3本目は、AIアプリの課金画面から火がついたダークパターンの話。規制の強化案が、私たちが普段引いてる線のどこに刺さってくるのか。海外はSpotifyのビルボードと、ChatGPT広告の続報、それとメタの巨額和解。</description>
+      <pubDate>Thu, 27 Aug 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-08-27.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-08-27.m4a" length="8607719" type="audio/x-m4a"/>
+      <itunes:duration>00:17:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>8月26日（水）</title>
       <description>8月26日、水曜日の放送です。おはようございます。今日の記事を一通り見て、最初に引っかかったのはキャベツでした。宇宙から撮った衛星のデータで畑のキャベツの出荷量を予測して、その予測に合わせて広告を出す。そういう実験が動き出したの。それとサイバーエージェントが、AI時代のデザイナー像を定義しましたっていう発表。あと、名古屋の味噌カツ屋さんが、味噌カツを食べる店じゃなくてマスコットに会いに行く店を作った話。並べると全然関係ないように見えるんだけど、私はこの3本、けっこう深いところでつながってると思ってる。後半は海外から、リブランドの話と、ブランド名を25週間だけ捨てる話。</description>
