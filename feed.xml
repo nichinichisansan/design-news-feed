@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 27 Aug 2026 05:44:49 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 05:42:26 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>8月28日（金）</title>
+      <description>おはよう。8月28日、金曜日。今日のデザインニュースを始める。今日集まった記事は72本。その中から3本選んだ。1本目は草間彌生さんの訃報。97歳。発表があったのは昨日なんだけど、亡くなったのは8月14日。この2週間の空白も含めて話したいと思う。2本目はロッテが発表したパッケージの新しい仕組み。目が見えにくい人が商品の情報にたどり着くための技術で、しかもそれを無償で開放するっていう話。3本目はアメリカのサムサラっていう会社のリブランド。テック企業の青をやめて、工事現場の黄色にした。並べると全然違う3本に見えるんだけど、今日はどれも「これは誰の目に向けて作られたものなのか」っていう一点に落ちる。</description>
+      <pubDate>Fri, 28 Aug 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-08-28.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-08-28.m4a" length="9176076" type="audio/x-m4a"/>
+      <itunes:duration>00:18:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>8月27日（木）</title>
       <description>おはよう。8月27日、木曜日。今日も15分、いきます。 今日の1本目は、キャラクターがカードから消える話。JR東日本が、Suicaのペンギンが描かれたICカードの発売をやめる。在庫がなくなり次第終了で、そのあとのカードは無地になるって。2本目が、ファミリーマートの10年ぶりの新しいユニホーム。Tシャツで、髪色も着こなしも自由にするらしい。3本目は、AIアプリの課金画面から火がついたダークパターンの話。規制の強化案が、私たちが普段引いてる線のどこに刺さってくるのか。海外はSpotifyのビルボードと、ChatGPT広告の続報、それとメタの巨額和解。</description>
