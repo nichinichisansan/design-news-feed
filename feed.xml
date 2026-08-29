@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Aug 2026 05:42:26 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:14:38 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>8月29日（土）拡大版</title>
+      <description>8月29日、土曜日。今週の総括と、特集を1本やっていく。 今週を一言でまとめると、ブランドが自分の過去を掘りに行った週だった。新しいものを作って驚かせるんじゃなくて、もう自分が持っているものを引っ張り出して、名前をつけ直したり、AIで復元したり、15年前に出てもらった子を大人にして連れ戻したり。1件だけなら偶然なんだけど、今週は同じ方向の話が続けて出てきたの。クラシアン、明星のチャルメラ、東海漬物のキューちゃん、エステーの80周年、それに東京おもちゃショーのトレンドまで、全部同じところを向いてた。ここを今日の特集にする。</description>
+      <pubDate>Sat, 29 Aug 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-08-29.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-08-29.m4a" length="23388682" type="audio/x-m4a"/>
+      <itunes:duration>00:47:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>8月28日（金）</title>
       <description>おはよう。8月28日、金曜日。今日のデザインニュースを始める。今日集まった記事は72本。その中から3本選んだ。1本目は草間彌生さんの訃報。97歳。発表があったのは昨日なんだけど、亡くなったのは8月14日。この2週間の空白も含めて話したいと思う。2本目はロッテが発表したパッケージの新しい仕組み。目が見えにくい人が商品の情報にたどり着くための技術で、しかもそれを無償で開放するっていう話。3本目はアメリカのサムサラっていう会社のリブランド。テック企業の青をやめて、工事現場の黄色にした。並べると全然違う3本に見えるんだけど、今日はどれも「これは誰の目に向けて作られたものなのか」っていう一点に落ちる。</description>
