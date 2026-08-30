@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 09:48:21 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 05:35:49 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>8月31日（月）</title>
+      <description>おはよう。8月31日、月曜日。8月最後の日で、明日から9月。今日の記事を並べてみたら、イギリスの小さな街の案内サインを整理し直したっていう話と、アブダビで初めて開かれるアートフェアの話と、アイドル衣装の学科が専門学校にできるっていう話が揃った。パッと見ると全然関係ない3本なんだけど、私はここに1本、同じ線が引けると思ってる。その話は後半の仮説のところでするから、前半はそれぞれちゃんと個別に掘っていくね。あと今日は月曜だから、今週足を運べる場所の話も最後に入れておく。ちなみに今週の記事、クリスマスコフレの情報が一気に増えてる。</description>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-08-31.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-08-31.m4a" length="9514721" type="audio/x-m4a"/>
+      <itunes:duration>00:19:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>8月30日（日）拡大版</title>
       <description>おはよう。八月三十日、日曜日。今週も一週間おつかれさま。週末版なので今日は三十分でいきます。日曜は作り手の話と、仮説の棚卸し。この二本を軸にします。平日版だと、その日入ってきたニュースを順番に追いかける形になるんだけど、週末は逆に、流れを一回止めて、人と、自分の見立てのほうを見にいく回にしてる。ニュースって、追いかけてるだけだと何も残らないの。止めて並べたときに初めて、あ、これとこれは同じ話だ、って気づける。今日はその作業をします。 今日の作り手は二人。一人はロンドンのデザインファーム、ファーザー・ロンドンのパートナー、アレックス・K・ジョンズ。デザインウィークの連載にインタビューが出てた。</description>
