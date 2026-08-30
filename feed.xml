@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 12:14:38 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 09:48:21 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>8月30日（日）拡大版</title>
+      <description>おはよう。八月三十日、日曜日。今週も一週間おつかれさま。週末版なので今日は三十分でいきます。日曜は作り手の話と、仮説の棚卸し。この二本を軸にします。平日版だと、その日入ってきたニュースを順番に追いかける形になるんだけど、週末は逆に、流れを一回止めて、人と、自分の見立てのほうを見にいく回にしてる。ニュースって、追いかけてるだけだと何も残らないの。止めて並べたときに初めて、あ、これとこれは同じ話だ、って気づける。今日はその作業をします。 今日の作り手は二人。一人はロンドンのデザインファーム、ファーザー・ロンドンのパートナー、アレックス・K・ジョンズ。デザインウィークの連載にインタビューが出てた。</description>
+      <pubDate>Sun, 30 Aug 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-08-30.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-08-30.m4a" length="21486123" type="audio/x-m4a"/>
+      <itunes:duration>00:43:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>8月29日（土）拡大版</title>
       <description>8月29日、土曜日。今週の総括と、特集を1本やっていく。 今週を一言でまとめると、ブランドが自分の過去を掘りに行った週だった。新しいものを作って驚かせるんじゃなくて、もう自分が持っているものを引っ張り出して、名前をつけ直したり、AIで復元したり、15年前に出てもらった子を大人にして連れ戻したり。1件だけなら偶然なんだけど、今週は同じ方向の話が続けて出てきたの。クラシアン、明星のチャルメラ、東海漬物のキューちゃん、エステーの80周年、それに東京おもちゃショーのトレンドまで、全部同じところを向いてた。ここを今日の特集にする。</description>
