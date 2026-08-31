@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 31 Aug 2026 05:35:49 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 05:15:56 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>9月1日（火）</title>
+      <description>9月1日、月曜日。9月に入ったけど、外はまだ全然真夏だよね。週の頭から重たい話が続くけど、今日も15分、付き合ってもらえたら嬉しい。 今日拾えた記事は83本。そこから3本に絞りました。1本目は、電通グループが電通総研を伊藤忠と組んで合弁会社にするという発表。2本目は、鳥取県の職員採用の告知が145万回表示されたという話。3本目は、ファミリーマートが10年ぶりにユニフォームを刷新して、身だしなみのルールごと作り直したという話。 この3本、並べたときにちょっと笑っちゃったんだけど、ジャンルは全然違うのに着地する場所が同じなの。小売の店頭と、人が採れないこと。今日はその2本の線を軸に話していく。</description>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-09-01.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-09-01.m4a" length="8931687" type="audio/x-m4a"/>
+      <itunes:duration>00:18:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>8月31日（月）</title>
       <description>おはよう。8月31日、月曜日。8月最後の日で、明日から9月。今日の記事を並べてみたら、イギリスの小さな街の案内サインを整理し直したっていう話と、アブダビで初めて開かれるアートフェアの話と、アイドル衣装の学科が専門学校にできるっていう話が揃った。パッと見ると全然関係ない3本なんだけど、私はここに1本、同じ線が引けると思ってる。その話は後半の仮説のところでするから、前半はそれぞれちゃんと個別に掘っていくね。あと今日は月曜だから、今週足を運べる場所の話も最後に入れておく。ちなみに今週の記事、クリスマスコフレの情報が一気に増えてる。</description>
