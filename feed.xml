@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 02 Sep 2026 06:30:16 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:36:06 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>9月3日（木）</title>
+      <description>おはよう。9月3日、木曜日。今日も15分、業界の動きを一緒に見ていく時間です。 今日は国内の広告とブランドの話がやたら濃い日だった。取り上げるのは三本。カレンダーアプリのTimeTreeが、新しいCMとブランドの刷新を同じ週にぶつけてきた話。サントリーの炭酸飲料NOPEが「まずい」って言われながら1億本まで行った話。それから、丹下健三が設計した体育館の解体工事が、一ヶ月だけ止まった話。 海外はイギリスの大学のリブランドと、ヘルシンキの文化施設のビジュアルアイデンティティ、あとニューヨークのキャットフードのキャンペーンを短めに。</description>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-09-03.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-09-03.m4a" length="10497984" type="audio/x-m4a"/>
+      <itunes:duration>00:21:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>9月2日（水）</title>
       <description>9月2日、水曜日。9月に入った途端、記事の並びが一気に切り替わった感じがする。今日拾えた記事は73本。ぱらぱら見ていって、私の中で一本の線が見えたの。ブランドが、モノじゃなくて関係を売りにいってる。その線でつながる話を三本選んだ。 一本目は、OpenAIが日本で初めて打ったブランドキャンペーン。二本目は、伊藤忠商事と電通グループの提携から見える、広告会社が今どこに向かってるのかっていう話。三本目は、氷でできたマットレスを本当に置いちゃったコアラの体験型PR。</description>
