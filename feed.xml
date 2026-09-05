@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 05 Sep 2026 13:59:18 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 07:54:14 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>9月6日（日）拡大版</title>
+      <description>9月6日、土曜日。今週も一週間お疲れさま。今日は30分、いつもより長めに話していく。 今日の中心は作り手の話。イッセイ ミヤケが、この秋冬のコレクションで出した「ウルシ ボディ」っていうシリーズに絞った特別展を、銀座と船場と京都でやるっていう話が出てて。和紙と漆で服を作るっていう、字面だけでちょっと立ち止まる話なんだけど、私はこれ、素材の話としてよりも、売り方と場所の話として読んでる。そこをたっぷり掘る。 あわせて、東京ファッションアワードの受賞が発表になってて。8組の顔ぶれが、創業72年のメーカー発のブランドから、デビュー2年目まで並んでる。</description>
+      <pubDate>Sun, 06 Sep 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-09-06.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-09-06.m4a" length="20428638" type="audio/x-m4a"/>
+      <itunes:duration>00:41:20</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>9月5日（土）拡大版</title>
       <description>おはよう。9月5日、土曜日の放送。今週の総括と、特集を一本やっていきます。 今週を一言でまとめると、測る週だった。マーケティング系のニュースを並べたら、今まで測ってこなかったものを測ろうとしている話が、同じ週に三つも出てきてる。生成AIの中で自分のブランドがどう表示されているかを測る話。テレビCMとデジタル広告の売上効果をAIで可視化する話。それから、店舗の従業員がマニュアルの外で勝手にやってる気遣いに対して、お客さんがどう反応したかを測る話。会社も業種も全然違うのに、動機のところがそっくりなの。ここが今日いちばん話したいところ。特集はまるごとこの話に使う。</description>
