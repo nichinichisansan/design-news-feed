@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 20:36:06 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:59:18 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>9月5日（土）拡大版</title>
+      <description>おはよう。9月5日、土曜日の放送。今週の総括と、特集を一本やっていきます。 今週を一言でまとめると、測る週だった。マーケティング系のニュースを並べたら、今まで測ってこなかったものを測ろうとしている話が、同じ週に三つも出てきてる。生成AIの中で自分のブランドがどう表示されているかを測る話。テレビCMとデジタル広告の売上効果をAIで可視化する話。それから、店舗の従業員がマニュアルの外で勝手にやってる気遣いに対して、お客さんがどう反応したかを測る話。会社も業種も全然違うのに、動機のところがそっくりなの。ここが今日いちばん話したいところ。特集はまるごとこの話に使う。</description>
+      <pubDate>Sat, 05 Sep 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-09-05.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-09-05.m4a" length="18187101" type="audio/x-m4a"/>
+      <itunes:duration>00:36:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>9月3日（木）</title>
       <description>おはよう。9月3日、木曜日。今日も15分、業界の動きを一緒に見ていく時間です。 今日は国内の広告とブランドの話がやたら濃い日だった。取り上げるのは三本。カレンダーアプリのTimeTreeが、新しいCMとブランドの刷新を同じ週にぶつけてきた話。サントリーの炭酸飲料NOPEが「まずい」って言われながら1億本まで行った話。それから、丹下健三が設計した体育館の解体工事が、一ヶ月だけ止まった話。 海外はイギリスの大学のリブランドと、ヘルシンキの文化施設のビジュアルアイデンティティ、あとニューヨークのキャットフードのキャンペーンを短めに。</description>
