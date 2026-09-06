@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Sep 2026 07:54:14 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 07:53:43 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>9月7日（月）</title>
+      <description>おはよう。9月7日、月曜日。今週も始まったね。今日拾うのは三つ。一つ目は、電通がカンヌライオンズ2026で掲げた「時間」というテーマの話。30秒、30分、30時間っていう区切り方をしてて、これがかなり示唆的だった。二つ目は、オルビスと三井住友フィナンシャルグループが語った、マーケティングの内製組織づくり。CPAが下がったという結果よりも、その手前にある組織の作り方のほうが面白い。三つ目は、ゴールドウインが個人投資家に向けてやってるコミュニケーション。IRの現場でブランドを語るって、けっこう新しいことをやってると思う。そのあとに海外まわりのクリップを何本かと、過去の回とのつなぎ。</description>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-09-07.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-09-07.m4a" length="9438874" type="audio/x-m4a"/>
+      <itunes:duration>00:19:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>9月6日（日）拡大版</title>
       <description>9月6日、土曜日。今週も一週間お疲れさま。今日は30分、いつもより長めに話していく。 今日の中心は作り手の話。イッセイ ミヤケが、この秋冬のコレクションで出した「ウルシ ボディ」っていうシリーズに絞った特別展を、銀座と船場と京都でやるっていう話が出てて。和紙と漆で服を作るっていう、字面だけでちょっと立ち止まる話なんだけど、私はこれ、素材の話としてよりも、売り方と場所の話として読んでる。そこをたっぷり掘る。 あわせて、東京ファッションアワードの受賞が発表になってて。8組の顔ぶれが、創業72年のメーカー発のブランドから、デビュー2年目まで並んでる。</description>
