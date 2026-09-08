@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 07:53:43 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 23:06:30 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>9月8日（火）</title>
+      <description>おはよう。9月8日、火曜日のデザインニュースです。今日も15分、業界の動きを一緒に追っていくね。 正直に言うと、今日は派手な広告キャンペーンのニュースは少なかった。大きなOOHが立ったとか、話題のCMが出たとか、そういう分かりやすい玉がない日。でもね、代わりに業界の足元がゆっくり動いてる話が、きれいに3つ揃った。1本目が、ワークマンがリカバリーウエアで年間3400万着って言い出した話。2本目が、AIの値段は下がってるのに制作現場の支出は増え続けてて、デザイン会社が潰れてるっていう話。</description>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-09-08.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-09-08.m4a" length="10376082" type="audio/x-m4a"/>
+      <itunes:duration>00:21:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>9月7日（月）</title>
       <description>おはよう。9月7日、月曜日。今週も始まったね。今日拾うのは三つ。一つ目は、電通がカンヌライオンズ2026で掲げた「時間」というテーマの話。30秒、30分、30時間っていう区切り方をしてて、これがかなり示唆的だった。二つ目は、オルビスと三井住友フィナンシャルグループが語った、マーケティングの内製組織づくり。CPAが下がったという結果よりも、その手前にある組織の作り方のほうが面白い。三つ目は、ゴールドウインが個人投資家に向けてやってるコミュニケーション。IRの現場でブランドを語るって、けっこう新しいことをやってると思う。そのあとに海外まわりのクリップを何本かと、過去の回とのつなぎ。</description>
