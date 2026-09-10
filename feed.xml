@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 23:06:30 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:01:32 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>9月10日（木）</title>
+      <description>9月10日、木曜日。デザインと広告のニュースを、私の目線で拾っていく15分。今日は記事の本数がやたら多くて、七十本以上あった。数が多い日って中身が薄いことが多いんだけど、今日は違ってて、バラバラに見える記事に一本の線が通ってる。何が本物かを誰が決めるのか、っていう線。Appleが出してきた画像の新しい技術と、JR東日本がキャラクターの後継をネット投票で決めるっていう話と、企業が街に場所を作る施策。全然違うニュースなんだけど、どれも信じてもらうための手続きをどう設計するかの話に見えるの。今日の三本はそこを軸に選んだ。</description>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-09-10.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-09-10.m4a" length="9354631" type="audio/x-m4a"/>
+      <itunes:duration>00:18:56</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>9月8日（火）</title>
       <description>おはよう。9月8日、火曜日のデザインニュースです。今日も15分、業界の動きを一緒に追っていくね。 正直に言うと、今日は派手な広告キャンペーンのニュースは少なかった。大きなOOHが立ったとか、話題のCMが出たとか、そういう分かりやすい玉がない日。でもね、代わりに業界の足元がゆっくり動いてる話が、きれいに3つ揃った。1本目が、ワークマンがリカバリーウエアで年間3400万着って言い出した話。2本目が、AIの値段は下がってるのに制作現場の支出は増え続けてて、デザイン会社が潰れてるっていう話。</description>
