@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 00:59:03 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 23:44:12 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>9月12日（土）拡大版</title>
+      <description>9月12日、土曜日。今週の総括をしていく回です。 今週入ってきた記事を全部並べて眺めてて、これは場の週だなと思った。場所の場ね。大きな広告キャンペーンが出たわけでもないし、派手なリブランドが発表されたわけでもない。代わりに、展覧会が開いて、アートフェアが開いて、海外では街ごと巻き込むデザインフェスティバルが始まって、アパレルの決算では増床と新店が数字を押し上げてた。全部、人が実際に足を運ぶ場所の話なの。 これ、たまたまの並びかもしれない。でも私はけっこう引っかかってる。この一年、私たちってずっと画面の中の話をしてきたと思うの。</description>
+      <pubDate>Sat, 12 Sep 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-09-12.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-09-12.m4a" length="22260915" type="audio/x-m4a"/>
+      <itunes:duration>00:45:03</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>9月11日（金）</title>
       <description>9月11日、金曜日。デザインと広告のニュースを、私の目線で拾っていく15分。今日は記事が88本あった。金曜だから2027年春夏のコレクション発表がどっと流れてきてて、そこは本編では扱わない。今日拾いたいのは別の線で、広告が伝えるための道具から、遊ばれるための場所に変わってきてる、っていうところ。渋谷に出た8番出口の広告と、カンヌの審査委員長がイノベーションの定義を書き換えた話と、結婚相談所がAI相手にデートの練習をさせるリブランディング。この三本を順番に見ていく。そのあと海外クリップを三本、ドローンとAIラベルと投票用紙の封筒。</description>
