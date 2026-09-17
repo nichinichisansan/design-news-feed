@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 23:44:12 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:55:53 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>9月17日（木）</title>
+      <description>おはよう。2026年9月17日、木曜日。デザインと広告のニュースを、私の視点で拾っていく15分です。 今日は、日本の広告賞の講評に出てきた「人間回帰」という言葉から始めます。生成AIが当たり前になった年に、賞が選んだのが人間だった、という話。そこから、Wikipediaが「答えを出すAI」に対して立ち上げたキャンペーンと、渋谷の西武が閉まってパルコが戻ってきた理由、この三つを深掘りしていく。 後半は海外のクリップを三本と、ここ数日の記事を並べて見えてきた仮説の更新。今日は珍しく、拾った記事の根っこが全部一本に繋がった日だと思ってる。バラバラのニュースが同じことを言ってる日って、たまにあるの。</description>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-09-17.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-09-17.m4a" length="8817775" type="audio/x-m4a"/>
+      <itunes:duration>00:17:52</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>9月12日（土）拡大版</title>
       <description>9月12日、土曜日。今週の総括をしていく回です。 今週入ってきた記事を全部並べて眺めてて、これは場の週だなと思った。場所の場ね。大きな広告キャンペーンが出たわけでもないし、派手なリブランドが発表されたわけでもない。代わりに、展覧会が開いて、アートフェアが開いて、海外では街ごと巻き込むデザインフェスティバルが始まって、アパレルの決算では増床と新店が数字を押し上げてた。全部、人が実際に足を運ぶ場所の話なの。 これ、たまたまの並びかもしれない。でも私はけっこう引っかかってる。この一年、私たちってずっと画面の中の話をしてきたと思うの。</description>
