@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 13:55:53 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 23:07:07 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>9月18日（金）</title>
+      <description>おはようございます。9月18日、金曜日。明日からシルバーウィークで、最大5連休っていう人も多いと思う。連休前の金曜って、業界ニュースの出方がちょっと独特で、休みに入る前に出しておきたい発表が一気に詰まるの。今日も記事が60本を超えてて、そのうちコラボレーションの新作発表だけで7本あった。この偏りの話は最後にする。今日掘るのは3つ。1つ目、阪急電鉄が来週から始める「阪急で帰ろう。」っていう沿線キャンペーン。2つ目、オサジのエイジングケアがシリーズの名前ごと変わったリニューアル。3つ目、カンヌライオンズ2026を現場で見てきた人たちの総括記事。</description>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-09-18.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-09-18.m4a" length="9490315" type="audio/x-m4a"/>
+      <itunes:duration>00:19:12</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>9月17日（木）</title>
       <description>おはよう。2026年9月17日、木曜日。デザインと広告のニュースを、私の視点で拾っていく15分です。 今日は、日本の広告賞の講評に出てきた「人間回帰」という言葉から始めます。生成AIが当たり前になった年に、賞が選んだのが人間だった、という話。そこから、Wikipediaが「答えを出すAI」に対して立ち上げたキャンペーンと、渋谷の西武が閉まってパルコが戻ってきた理由、この三つを深掘りしていく。 後半は海外のクリップを三本と、ここ数日の記事を並べて見えてきた仮説の更新。今日は珍しく、拾った記事の根っこが全部一本に繋がった日だと思ってる。バラバラのニュースが同じことを言ってる日って、たまにあるの。</description>
