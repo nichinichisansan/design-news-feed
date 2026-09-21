@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 23:07:07 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:16:43 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>9月21日（月）</title>
+      <description>おはようございます。9月21日、月曜日。今週も始まりました、っていうか始まっちゃったね、という感じの朝だけど、今日も15分でいきます。 今日の3本はこれ。資生堂のマキアージュがブランドメッセージを刷新した話。ポカリスエットが今年の甲子園でやった「つば裏言葉」の広告。それからプラダが明後日、ミラノの旗艦店をリニューアルオープンさせる話。 並べてみて気づいたんだけど、この3本、全部「商品そのものじゃないところで勝負してる」っていう点でつながってる。化粧品の話なのに化粧の話をしてない。スポーツドリンクの話なのに喉の渇きの話をしてない。そこが今日の軸になると思う。</description>
+      <pubDate>Mon, 21 Sep 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-09-21.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-09-21.m4a" length="9463562" type="audio/x-m4a"/>
+      <itunes:duration>00:19:10</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>9月18日（金）</title>
       <description>おはようございます。9月18日、金曜日。明日からシルバーウィークで、最大5連休っていう人も多いと思う。連休前の金曜って、業界ニュースの出方がちょっと独特で、休みに入る前に出しておきたい発表が一気に詰まるの。今日も記事が60本を超えてて、そのうちコラボレーションの新作発表だけで7本あった。この偏りの話は最後にする。今日掘るのは3つ。1つ目、阪急電鉄が来週から始める「阪急で帰ろう。」っていう沿線キャンペーン。2つ目、オサジのエイジングケアがシリーズの名前ごと変わったリニューアル。3つ目、カンヌライオンズ2026を現場で見てきた人たちの総括記事。</description>
