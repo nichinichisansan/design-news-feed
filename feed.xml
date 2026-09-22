@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 21 Sep 2026 11:16:43 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:42:53 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>9月22日（火）</title>
+      <description>おはよう。2026年9月22日、火曜日。デザインと広告のニュースを、私なりの見立てで話していく15分。 今日はコンビニの話から始めたい。といっても新商品の話じゃなくて、コンビニの商品開発に生成AIが入り込んだっていう話と、パリの老舗百貨店が館まるごと日本のコンビニをテーマに作り替えたっていう話。全然違うところから出てきたニュースなんだけど、同じ日に並んでるのが妙に面白くて。 そのあと、16年ぶりに復刊した学研の学習の第1号が、なぜはにわだったのかっていう話をする。</description>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-09-22.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-09-22.m4a" length="9654898" type="audio/x-m4a"/>
+      <itunes:duration>00:19:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>9月21日（月）</title>
       <description>おはようございます。9月21日、月曜日。今週も始まりました、っていうか始まっちゃったね、という感じの朝だけど、今日も15分でいきます。 今日の3本はこれ。資生堂のマキアージュがブランドメッセージを刷新した話。ポカリスエットが今年の甲子園でやった「つば裏言葉」の広告。それからプラダが明後日、ミラノの旗艦店をリニューアルオープンさせる話。 並べてみて気づいたんだけど、この3本、全部「商品そのものじゃないところで勝負してる」っていう点でつながってる。化粧品の話なのに化粧の話をしてない。スポーツドリンクの話なのに喉の渇きの話をしてない。そこが今日の軸になると思う。</description>
