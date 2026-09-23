@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 22 Sep 2026 11:42:53 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 06:24:50 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>9月24日（木）</title>
+      <description>おはよう。9月24日、木曜日の朝です。今日も15分、デザインと広告のまわりで起きたことを話していくね。 今日の3本、先に言っておくと、1本目はパラマウントとワーナー・ブラザース・ディスカバリーの合併の話。アメリカのエンタメを代表するロゴが一人の手に集まるんだけど、この2社、ここ数年リブランドを繰り返してて、その履歴そのものが業界の混乱を可視化してる、っていう記事があった。2本目はスペインのローラ・マドリードが作った、安いボディスプレーを高級香水に見せるためのホルダー。3本目は、なんでデザインの美術館はブランドデザインを展示しないんだろう、っていう問いかけ。</description>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-09-24.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-09-24.m4a" length="11177989" type="audio/x-m4a"/>
+      <itunes:duration>00:23:03</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>9月22日（火）</title>
       <description>おはよう。2026年9月22日、火曜日。デザインと広告のニュースを、私なりの見立てで話していく15分。 今日はコンビニの話から始めたい。といっても新商品の話じゃなくて、コンビニの商品開発に生成AIが入り込んだっていう話と、パリの老舗百貨店が館まるごと日本のコンビニをテーマに作り替えたっていう話。全然違うところから出てきたニュースなんだけど、同じ日に並んでるのが妙に面白くて。 そのあと、16年ぶりに復刊した学研の学習の第1号が、なぜはにわだったのかっていう話をする。</description>
