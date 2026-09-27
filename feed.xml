@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Sep 2026 15:24:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 07:52:18 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>9月28日（月）</title>
+      <description>おはよう。9月28日、月曜日。今週もデザインと広告のニュースから、考えるための材料を拾っていくね。週末はミラノのファッションウィークが山場だったみたいで、今日の記事一覧を開いたら、ほとんどが2027年春夏コレクションで埋まってたの。だから今日はその中から、ブランドの見せ方がはっきり動いた話をひとつ選んでる。それと、食品ロスをめぐる二つの取り組み。そしてミラノの観光地にできたオニツカタイガーの旗艦店。海外からはMoMAの情報デザインの話と、ドルチェ＆ガッバーナ。最後の月曜恒例の展示紹介は、今週末のものじゃなくて、今から予定に入れておきたい展覧会を持ってきたよ。</description>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-09-28.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-09-28.m4a" length="12212779" type="audio/x-m4a"/>
+      <itunes:duration>00:25:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>9月27日（日）拡大版</title>
       <description>9月27日、日曜日。デザインと広告の動きを私の目線で読んでいく30分。日曜の回は、作り手の話をじっくりやってから、これまで立ててきた仮説の棚卸しをする。この2本立て。 今週の記事、正直に言うと広告キャンペーンの大きなネタは薄かった。代わりに来てたのが2027年春夏コレクションの発表ラッシュ。ドルチェ・アンド・ガッバーナ、ボッテガ・ヴェネタ、フェラガモ、MSGM。ただ、手元にある記事はどれも発表したという一行だけで、表現の中身まで踏み込んでない。だから今日はそこを無理に膨らませない。材料が足りない話を長く喋るのが、この番組で一番やりたくないことだから。</description>
