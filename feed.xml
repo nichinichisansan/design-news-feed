@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 25 Sep 2026 05:27:03 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 15:24:00 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>9月27日（日）拡大版</title>
+      <description>9月27日、日曜日。デザインと広告の動きを私の目線で読んでいく30分。日曜の回は、作り手の話をじっくりやってから、これまで立ててきた仮説の棚卸しをする。この2本立て。 今週の記事、正直に言うと広告キャンペーンの大きなネタは薄かった。代わりに来てたのが2027年春夏コレクションの発表ラッシュ。ドルチェ・アンド・ガッバーナ、ボッテガ・ヴェネタ、フェラガモ、MSGM。ただ、手元にある記事はどれも発表したという一行だけで、表現の中身まで踏み込んでない。だから今日はそこを無理に膨らませない。材料が足りない話を長く喋るのが、この番組で一番やりたくないことだから。</description>
+      <pubDate>Sun, 27 Sep 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-09-27.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-09-27.m4a" length="24121710" type="audio/x-m4a"/>
+      <itunes:duration>00:49:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>9月25日（金）</title>
       <description>おはよう。9月25日、金曜日の朝です。今日も15分、デザインと広告のまわりで起きたことを話していくね。 今日の3本、先に言っておくと、1本目は広告が炎上した話を2つまとめて扱う。コンバースと、シドニー・スウィーニーの広告。同じ炎上でも中身が正反対で、並べると見えてくるものがある。2本目は、マクドナルドとベストバイが自分でメディアになろうとしてる話。これ、私たちの仕事の発注元が変わるって意味だから、けっこう大きい。3本目は、きのこの山の50周年企画で生成AIをどう使ったか。効率化じゃない使い方をしてて、そこが面白かった。</description>
