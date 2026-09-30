@@ -8,7 +8,7 @@
     <atom:link href="https://nichinichisansan.github.io/design-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 28 Sep 2026 07:52:18 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 09:35:10 +0900</lastBuildDate>
     <itunes:author>デザイン・広告 モーニングブリーフ</itunes:author>
     <itunes:summary>デザインと広告業界の動きを、毎朝ひとりで語る番組。単なるニュースの要約ではなく、過去の事例との関連づけと独自の見立てを添えて届けます。平日15分、週末は30分の拡大版。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
     </itunes:category>
+    <item>
+      <title>9月30日（水）</title>
+      <description>おはよう。9月30日、水曜日。9月も今日で終わりだね。今日も15分、始めていくね。今日掘るのは三つ。一つ目はバーバリーの170周年キャンペーン。コーチの85周年とリモワのユーズドのスーツケース展示を並べると、ブランドが今なにを売ろうとしてるのかが見えてくるの。二つ目は、東京ばな奈のクッキーが終わったのにキャラクターだけが残る話。三つ目は、ソウルのアートフェアにラグジュアリーブランドが集まる理由。海外からは、OpenAIの新しいエージェントにマスコットが付いた話、エージェンシーの値付けの話、それからモーションアイデンティティの論考を持ってきた。</description>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://nichinichisansan.github.io/design-news-feed/audio/2026-09-30.m4a</guid>
+      <enclosure url="https://nichinichisansan.github.io/design-news-feed/audio/2026-09-30.m4a" length="9744311" type="audio/x-m4a"/>
+      <itunes:duration>00:20:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>9月28日（月）</title>
       <description>おはよう。9月28日、月曜日。今週もデザインと広告のニュースから、考えるための材料を拾っていくね。週末はミラノのファッションウィークが山場だったみたいで、今日の記事一覧を開いたら、ほとんどが2027年春夏コレクションで埋まってたの。だから今日はその中から、ブランドの見せ方がはっきり動いた話をひとつ選んでる。それと、食品ロスをめぐる二つの取り組み。そしてミラノの観光地にできたオニツカタイガーの旗艦店。海外からはMoMAの情報デザインの話と、ドルチェ＆ガッバーナ。最後の月曜恒例の展示紹介は、今週末のものじゃなくて、今から予定に入れておきたい展覧会を持ってきたよ。</description>
